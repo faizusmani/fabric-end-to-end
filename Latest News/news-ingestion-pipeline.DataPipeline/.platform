@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "DataPipeline",
+    "displayName": "news-ingestion-pipeline"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c504d203-0e23-49a2-9fbb-ff81b94bc8ff"
+  }
+}
