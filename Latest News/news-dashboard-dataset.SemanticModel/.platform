@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "news-dashboard-dataset"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1fc45bb5-fb83-43cf-abe6-9bf92724e90a"
+  }
+}
